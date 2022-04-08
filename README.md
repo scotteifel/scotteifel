@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Scott Eifel.  My website is programmingbase.netlify.app.
 - 👀 I’m interested in a job as a developer.
-- 🌱 I’m currently learning Javascript while improving my HTML and CSS knowledge.
-- 💞️ I’m looking to collaborate on related projects.
+- 🌱 I’m currently building an app with python and django.
 - 📫 Reach me at scotte@reagan.com
 
