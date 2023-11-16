@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Scott Eifel.  My website is programmingbase.netlify.app.
-- 👀 I’m interested in working in the field.
-- 🌱 I completed the Early Engineering Bootcamp with InterviewKickstart, and am currently learning React.
+- 🌱 I completed the Early Engineering Bootcamp with InterviewKickstart, and am working with Eloha.
 - 📫 Reach me at scotte@reagan.com
