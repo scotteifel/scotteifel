@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Scott Eifel.  My personal project website is currently https://personalprojectpage.netlify.app.
-- 🌱 I completed the Early Engineering Bootcamp with InterviewKickstart.  I just finished working with Eloha and am open to work.
+- 👋 Hi, I’m Scott Eifel.
+- 🌱 I am currently working with Eloha.
 - 📫 Reach me at scotte@reagan.com
