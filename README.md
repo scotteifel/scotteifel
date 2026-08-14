@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Scott Eifel.
-- 🌱 I am currently working with BranchNode LLC.
-- 📫 Reach me at scotte@reagan.com
+-  Hi, I’m Scott Eifel.
+-  Founder of BranchNode LLC.
+-  Currently building Result Arrange.
+-  Reach me at hello@branchnodeconnect.com
