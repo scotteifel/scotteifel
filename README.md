@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Scott Eifel.
-- 🌱 I am currently working with Eloha.
+- 🌱 I am currently working with BranchNode LLC.
 - 📫 Reach me at scotte@reagan.com
